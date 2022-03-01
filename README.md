@@ -30,3 +30,12 @@ Moins d'un dixième des parrainages proviennent d'élus d'un même département 
 
 ## Marrainages
 
+![Taux de marrainages par candidat](./results/gender_rate_by_candidate.png)
+
+## Quel candidat est soutenu par quel mandat ?
+
+![Quel candidat est soutenu par quel mandat ?](./results/mandates_rate_by_candiate.png)
+
+## Quel mandat soutient quel candidat ?
+
+![Quel mandat soutient quel candidat ?](./results/candidates_rate_by_mandate.png)
