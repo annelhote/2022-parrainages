@@ -39,3 +39,7 @@ Moins d'un dixième des parrainages proviennent d'élus d'un même département 
 ## Quel mandat soutient quel candidat ?
 
 ![Quel mandat soutient quel candidat ?](./results/candidates_rate_by_mandate.png)
+
+## Evolution du nombre de parrainages par candidat au cours du temps
+
+![Evolution du nombre de parrainage par candidat au cours du temps](./results/sponsorships_by_candidate_by_time.png)
