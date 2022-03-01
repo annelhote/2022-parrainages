@@ -27,18 +27,23 @@ Ce graphique présente le nombre de départements d'où sont issus les parrainag
 
 Moins d'un dixième des parrainages proviennent d'élus d'un même département ou d'une même collectivité d'outre-mer.
 
+![Taux maximum de parrainages par département par candidat](./results/max_rate_by_department_by_candidate.png)
+
 
 ## Marrainages
 
 ![Taux de marrainages par candidat](./results/gender_rate_by_candidate.png)
 
+
 ## Quel candidat est soutenu par quel mandat ?
 
 ![Quel candidat est soutenu par quel mandat ?](./results/mandates_rate_by_candiate.png)
 
+
 ## Quel mandat soutient quel candidat ?
 
 ![Quel mandat soutient quel candidat ?](./results/candidates_rate_by_mandate.png)
+
 
 ## Evolution du nombre de parrainages par candidat au cours du temps
 
