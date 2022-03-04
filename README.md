@@ -48,3 +48,8 @@ Moins d'un dixième des parrainages proviennent d'élus d'un même département 
 ## Evolution du nombre de parrainages par candidat au cours du temps
 
 ![Evolution du nombre de parrainage par candidat au cours du temps](./results/sponsorships_by_candidate_by_time.png)
+
+
+## Et toi, ton département il est de quelle couleur ?
+
+![Quel est le candidat le plus parrainé par département](./results/candidates_by_department.png)
