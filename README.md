@@ -14,6 +14,13 @@ Ce graphique présente pour chaque candidat, le nombre total de parrainages vala
 ![Nombre de parrainages reçus par candidat](./results/sponsorships_by_candidate.png)
 
 
+### Nombre de parrainages en couleurs
+
+Même graphique que le précédent filtré par les candidats de plus de 500 parrainages et par couelur politique.
+
+![Nombre de parrainages reçus par candidat, en couleur](./results/sponsorships_by_candidate_coloured.png)
+
+
 ### Représentativité des parrainages
 
 Ces parrainages sont signés par des élus représentant au moins 30 départements ou collectivités d’outre-mer.
